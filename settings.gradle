@@ -1,0 +1,2 @@
+include ':app', ':hongyang20191231'
+rootProject.name='1707B_WeekOrMonth'
